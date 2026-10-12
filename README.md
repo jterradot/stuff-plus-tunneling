@@ -1,5 +1,5 @@
 # terradot_baseball
-**_This repository displays my passion for baseball and analytics_**
+**_This repository displays my most polished app and the decisions I made in production_**
 
 <img width="1280" height="675" alt="Screenshot of Stuff+ & Tunneling Dashboard" src="https://github.com/user-attachments/assets/856e48ab-98ef-4a4f-956d-9de97d2fd132" />
 
