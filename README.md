@@ -24,6 +24,8 @@ For the tunneling metrics, I took the average path in x, y, and z for each of th
 ## Limitations
 One thing that I would change and look into is Trackman's systems and the best way to get around the radar's mistakes. I used AutoPitchType in Trackman which is basically Trackman's systems "best guess" at what the pitch type is. The main reason I did this is because the TaggedPitchType only show "Fastball" and there is no distinction between 4S or 2S and that was a deal breaker for me. However, that does mean I'd have to take the hit of AutoPitchType's mistakes. For example, a sidearmer throwing a 4S can come in as a Sinker or 2S just because of the shape of the pitch. So in the future I want to find ways to get around the radar's mistakes
 
+When looking at the screenshot of the dashboard, we see that Paul Skenes, one of the best pitchers in baseball, is listed with a tunneling score of 90. This is something that's worth epxplaining. Going back to what I mentioned in the previous paragraph, reading incorrect pitches can harm a pitchers score in all aspects. So a pitch that Skenes throws only 2% of the time is weighing his score down. All of the pairs are weighted the same. I did this so that if there's a pair a coach never thought of and it does very well, it will rise to the top. However, this means pitches that the radar read wrong, or the pitcher never throws brings down his score for every single pair that pitch adds. This is something I need to workshop.
+
 ## What's Next
 What I am working on now and will be in the future is a pipeline that automatically cleans and feeds each new game CSV straight to my Stuff+ & Tunneling app and any future apps that I make.
 
