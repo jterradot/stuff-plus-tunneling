@@ -3,7 +3,7 @@
 
 **Built with:** Python · Streamlit · Pandas · Parquet · XGBoost · TrackMan
 
-<img width="1280" height="675" alt="Screenshot of Stuff+ & Tunneling Dashboard" src="https://github.com/user-attachments/assets/856e48ab-98ef-4a4f-956d-9de97d2fd132" />
+<img width="1280" height="674" alt="Screenshot of Stuff+ & Tunneling Dashboard" src="https://github.com/user-attachments/assets/5a3347d9-d046-49b1-af7c-3ec7784833af" />
 
 ## Overview
 Pictured above is the Dashboard of my Stuff+ & Tunneling app. This app brings together two prized statistics in the world of pitching.
