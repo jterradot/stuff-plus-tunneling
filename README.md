@@ -1,6 +1,8 @@
 # terradot_baseball
 **_This repository displays my most polished app and the decisions I made in production_**
 
+**Built with:** Python · Streamlit · Pandas · Parquet · XGBoost · TrackMan
+
 <img width="1280" height="675" alt="Screenshot of Stuff+ & Tunneling Dashboard" src="https://github.com/user-attachments/assets/856e48ab-98ef-4a4f-956d-9de97d2fd132" />
 
 ## Overview
@@ -24,3 +26,7 @@ One thing that I would change and look into is Trackman's systems and the best w
 
 ## What's Next
 What I am working on now and will be in the future is a pipeline that automatically cleans and feeds each new game CSV straight to my Stuff+ & Tunneling app and any future apps that I make.
+
+---
+
+I use AI tools in my projects to implement architectural decisions I make, like the ones listed above.
